@@ -17,7 +17,6 @@
 </p>
 
 [![ssufunny's github stats](https://github-readme-stats.vercel.app/api?username=ssufunny)](https://github.com/ssufunny)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssufunny&layout=compact)](https://github.com/ssufunny)
 
 
 ### 현장실습
