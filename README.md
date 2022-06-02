@@ -17,7 +17,3 @@
 </p>
 
 [![ssufunny's github stats](https://github-readme-stats.vercel.app/api?username=ssufunny)](https://github.com/ssufunny)
-
-
-### 현장실습
-- 📂 [Internship-2022Winter](https://github.com/ssufunny/Internship-2022Winter)
